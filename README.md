@@ -23,4 +23,4 @@ Advantages of Component testing
               vi.	This will reduce the release cycle time and help us find issues in the early life cycle of product development. 
       vii.	Less issues in QA / Test Environment.
     
-Conclusion: instead of going through all process if right shift and finding issues we will validate initial PR level which saves a much time.
+Conclusion: instead of going through all process in right shift and finding issues we will validate initial PR level which saves a much time.
